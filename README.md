@@ -12,7 +12,7 @@
 <table style="border: none;">
     <tr>
         <td>
-            <a alt="C" src="https://github.com/mfn04/mfn04/blob/master/icons/C_Logo.png" height="50"></a>
+            <img alt="C" src="https://github.com/mfn04/mfn04/blob/master/icons/C_Logo.png" height="50"></img>
             <a alt="C++" src="https://github.com/mfn04/mfn04/blob/master/icons/C++_Logo.png" height="50"></a>
             <a alt="Rust" src="https://github.com/mfn04/mfn04/blob/master/icons/Rust_Logo.png" height="50"></a>
             <a alt="Python" src="https://github.com/mfn04/mfn04/blob/master/icons/Python_Logo.png" height="50"></a>
