@@ -9,25 +9,25 @@
 
 ## Tech Stack
 <div align="center" width="50%">
-<table>
+<table style="border: none;">
     <tr>
         <td>
-            <a alt="C" src="icons/C_Logo.png" height="50"></a>
-            <a alt="C++" src="icons/C++_Logo.png" height="50"></a>
-            <a alt="Rust" src="icons/Rust_Logo.png" height="50"></a>
-            <a alt="Python" src="icons/Python_Logo.png" height="50"></a>
-            <a alt="Bash" src="icons/Bash_Logo.png" height="50"></a>
+            <a alt="C" src="https://github.com/mfn04/mfn04/blob/master/icons/C_Logo.png" height="50"></a>
+            <a alt="C++" src="https://github.com/mfn04/mfn04/blob/master/icons/C++_Logo.png" height="50"></a>
+            <a alt="Rust" src="https://github.com/mfn04/mfn04/blob/master/icons/Rust_Logo.png" height="50"></a>
+            <a alt="Python" src="https://github.com/mfn04/mfn04/blob/master/icons/Python_Logo.png" height="50"></a>
+            <a alt="Bash" src="https://github.com/mfn04/mfn04/blob/master/icons/Bash_Logo.png" height="50"></a>
         </td>
         <td>
-            <a alt="Espressif" src="icons/Espressif_Logo.png" height="50"></a>
-            <a alt="Arduino" src="icons/Arduino_Logo.png" height="50"></a>
-            <a alt="Raspberry Pi" src="icons/Raspberry_Pi_Logo.png" height="50"></a>
-            <a alt="PlatformIO" src="icons/PlatformIO_Logo.png" height="50"></a>
-            <a alt="VSCode" src="icons/VSCode_Logo.png" height="50"></a>
-            <a alt="Linux" src="icons/Tux_Logo.png" height="50"></a>
-            <a alt="Ubuntu" src="icons/Ubuntu_Logo.png" height="50"></a>
-            <a alt="Amazon Web Services" src="icons/AWS_Logo.png" height="50"></a>
-            <a alt="MySQL" src="icons/MySQL_Logo.png" height="50"></a>
+            <a alt="Espressif" src="https://github.com/mfn04/mfn04/blob/master/icons/Espressif_Logo.png" height="50"></a>
+            <a alt="Arduino" src="https://github.com/mfn04/mfn04/blob/master/icons/Arduino_Logo.png" height="50"></a>
+            <a alt="Raspberry Pi" src="https://github.com/mfn04/mfn04/blob/master/icons/Raspberry_Pi_Logo.png" height="50"></a>
+            <a alt="PlatformIO" src="https://github.com/mfn04/mfn04/blob/master/icons/PlatformIO_Logo.png" height="50"></a>
+            <a alt="VSCode" src="https://github.com/mfn04/mfn04/blob/master/icons/VSCode_Logo.png" height="50"></a>
+            <a alt="Linux" src="https://github.com/mfn04/mfn04/blob/master/icons/Tux_Logo.png" height="50"></a>
+            <a alt="Ubuntu" src="https://github.com/mfn04/mfn04/blob/master/icons/Ubuntu_Logo.png" height="50"></a>
+            <a alt="Amazon Web Services" src="https://github.com/mfn04/mfn04/blob/master/icons/AWS_Logo.png" height="50"></a>
+            <a alt="MySQL" src="https://github.com/mfn04/mfn04/blob/master/icons/MySQL_Logo.png" height="50"></a>
         </td>
     </tr>
 </table>
