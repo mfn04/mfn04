@@ -11,17 +11,14 @@
 <div align="center" width="50%">
 <table style="border: none;">
     <tr>
-        <td>
-            <div align="center" width="25%">
+        <td width="250px">
                 <img alt="C" src="https://github.com/mfn04/mfn04/blob/master/icons/C_Logo.png" height="50"/>
                 <img alt="C++" src="https://github.com/mfn04/mfn04/blob/master/icons/C++_Logo.png" height="50"/>
                 <img alt="Rust" src="https://github.com/mfn04/mfn04/blob/master/icons/Rust_Logo.png" height="50"/>
                 <img alt="Python" src="https://github.com/mfn04/mfn04/blob/master/icons/Python_Logo.png" height="50"/>
                 <img alt="Bash" src="https://github.com/mfn04/mfn04/blob/master/icons/Bash_Logo.png" height="50"/>
-            </div>
         </td>
-        <td>
-            <div align="center" width="25%">
+        <td width="250px">
                 <img alt="Espressif" src="https://github.com/mfn04/mfn04/blob/master/icons/Espressif_Logo.png" height="50"/>
                 <img alt="Arduino" src="https://github.com/mfn04/mfn04/blob/master/icons/Arduino_Logo.png" height="50"/>
                 <img alt="Raspberry Pi" src="https://github.com/mfn04/mfn04/blob/master/icons/Raspberry_Pi_Logo.png" height="50"/>
@@ -31,7 +28,6 @@
                 <img alt="Ubuntu" src="https://github.com/mfn04/mfn04/blob/master/icons/Ubuntu_Logo.png" height="50"/>
                 <img alt="Amazon Web Services" src="https://github.com/mfn04/mfn04/blob/master/icons/AWS_Logo.png" height="50"/>
                 <img alt="MySQL" src="https://github.com/mfn04/mfn04/blob/master/icons/MySQL_Logo.png" height="50"/>
-            </div>
         </td>
     </tr>
 </table>
